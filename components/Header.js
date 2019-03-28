@@ -11,7 +11,7 @@ function Header() {
             <HeaderSection>
                 <HeaderItem>
                     <Link href="/">
-                        Logo
+                         Logo
                     </Link>
                 </HeaderItem>
                 <HeaderItem>

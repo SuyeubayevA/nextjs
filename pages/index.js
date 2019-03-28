@@ -7,9 +7,9 @@ const Home = dynamic(()=>import("./home"), {
 })
 
 const App = () =>(
-    <React.Fragment>
+    <div className='a2' style={{ background: 'red' }} >
         <Home />
-    </React.Fragment>
+    </div>
 );
 
 export default App;

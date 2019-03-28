@@ -7,11 +7,15 @@ import Input from "./Styles/Header_second_line/Input";
 import Button from "./Styles/Header_second_line/Button";
 import Book from "./Styles/Header_second_line/Book";
 import CityMenu from "./Styles/Header_second_line/CityMenu";
+import MenuItem from "./Styles/Header_second_line/MenuItem";
 
 function Header_second_line() {
   return (
-    <Form>
+    <Form className="form">
         <Menu>
+            <MenuItem>
+                    Каталог товаров
+            </MenuItem>
 
         </Menu>
 

@@ -1,13 +1,14 @@
 import styled from 'styled-components'
 
-const Form = styled.form`
+const Form = styled.div`
     display: flex;
+    background: white;
     box-sizing: border-box;
+    /* width: 1100px; */
     height: 50px;
-    background: #fff;
     justify-content:center;
-    margin:0;
-    padding:0;
+    margin:0 auto;
+    padding:7px 30px; 
 `;
 
 export default Form

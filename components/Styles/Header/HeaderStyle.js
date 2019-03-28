@@ -9,7 +9,7 @@ const HeaderStyle =  styled.nav `
     color: #fff;
     font-size: 10px;
     margin:0;
-    padding:0;
+    padding:0 100px;
 `;
 
 export default HeaderStyle

@@ -7,6 +7,14 @@
       "publicPath": "static/chunks/0.js"
     }
   ],
+  "../components/Body": [
+    {
+      "id": "./components/Body.js",
+      "name": "./components/Body.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
   "../components/Header": [
     {
       "id": "./components/Header.js",
@@ -19,6 +27,54 @@
     {
       "id": "./components/Header_second_line.js",
       "name": "./components/Header_second_line.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Styles/Body/Banner": [
+    {
+      "id": "./components/Styles/Body/Banner.js",
+      "name": "./components/Styles/Body/Banner.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Styles/Body/BodyStyle": [
+    {
+      "id": "./components/Styles/Body/BodyStyle.js",
+      "name": "./components/Styles/Body/BodyStyle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Styles/Body/Image": [
+    {
+      "id": "./components/Styles/Body/Image.js",
+      "name": "./components/Styles/Body/Image.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Styles/Body/Items": [
+    {
+      "id": "./components/Styles/Body/Items.js",
+      "name": "./components/Styles/Body/Items.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Styles/Body/LeftSideMenu": [
+    {
+      "id": "./components/Styles/Body/LeftSideMenu.js",
+      "name": "./components/Styles/Body/LeftSideMenu.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Styles/Body/Title": [
+    {
+      "id": "./components/Styles/Body/Title.js",
+      "name": "./components/Styles/Body/Title.js",
       "file": "static/chunks/1.js",
       "publicPath": "static/chunks/1.js"
     }
@@ -103,10 +159,26 @@
       "publicPath": "static/chunks/1.js"
     }
   ],
+  "./Styles/Header_second_line/MenuItem": [
+    {
+      "id": "./components/Styles/Header_second_line/MenuItem.js",
+      "name": "./components/Styles/Header_second_line/MenuItem.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
   "./Styles/Header_second_line/Search": [
     {
       "id": "./components/Styles/Header_second_line/Search.js",
       "name": "./components/Styles/Header_second_line/Search.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "../components/Styles/Main/MainBG": [
+    {
+      "id": "./components/Styles/Main/MainBG.js",
+      "name": "./components/Styles/Main/MainBG.js",
       "file": "static/chunks/1.js",
       "publicPath": "static/chunks/1.js"
     }
@@ -219,6 +291,14 @@
     {
       "id": "./node_modules/@babel/runtime-corejs2/helpers/esm/asyncToGenerator.js",
       "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/asyncToGenerator.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/defineProperty": [
+    {
+      "id": "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js",
       "file": "static/chunks/1.js",
       "publicPath": "static/chunks/1.js"
     }

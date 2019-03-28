@@ -164,7 +164,11 @@ var Home = next_server_dynamic__WEBPACK_IMPORTED_MODULE_1___default()(function (
 });
 
 var App = function App() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "a2",
+    style: {
+      background: 'red'
+    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10

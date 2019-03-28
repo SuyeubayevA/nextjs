@@ -6,14 +6,15 @@ const Book =  styled.button `
     border: none;
     background-color: Transparent;
     margin-top:5px;
-    border-radius: 15px;
-    color: #000;
-    font-size:15px;
+    border-radius: 10px;
+    color: #3572b2;
+    padding: 0 20px;
+    font-size:13px;
     cursor: pointer;
 
     :hover {
-        background-color: blueviolet;
-        color: blue;
+        background-color: #3572b2;
+        color: white;
     }
 `;
 

@@ -2,10 +2,11 @@ import styled from 'styled-components'
 
 const Search = styled.div `
     @extend %center;
-    width: 80%;
-    max-width: 520px;
+    position:relative;
+    display: flex;
+    width: 60%;
     border-radius: 5px;
-    background-color: $white;
+    padding: 0 10px;
 `;
 
 export default Search
