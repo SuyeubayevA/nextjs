@@ -71,6 +71,22 @@
       "publicPath": "static/chunks/1.js"
     }
   ],
+  "./Styles/Body/MenuItemTitle": [
+    {
+      "id": "./components/Styles/Body/MenuItemTitle.js",
+      "name": "./components/Styles/Body/MenuItemTitle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
+  "./Styles/Body/MenuTitle": [
+    {
+      "id": "./components/Styles/Body/MenuTitle.js",
+      "name": "./components/Styles/Body/MenuTitle.js",
+      "file": "static/chunks/1.js",
+      "publicPath": "static/chunks/1.js"
+    }
+  ],
   "./Styles/Body/Title": [
     {
       "id": "./components/Styles/Body/Title.js",

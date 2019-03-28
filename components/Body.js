@@ -6,6 +6,9 @@ import Items from "./Styles/Body/Items";
 import Banner from "./Styles/Body/Banner";
 import Title from "./Styles/Body/Title";
 import Image from "./Styles/Body/Image";
+import MenuTitle from "./Styles/Body/MenuTitle";
+import MenuItemTitle from "./Styles/Body/MenuItemTitle";
+
 
 
 class Body extends React.Component {
@@ -21,8 +24,9 @@ class Body extends React.Component {
     return (
       <BodyStyle>
           <LeftSideMenu onClick={this.changeCategoryField}>
+          <MenuTitle>АКЦИИ И ПРЕДЛОЖЕНИЯ</MenuTitle>
             {this.state.category && (
-              <div>asfas</div>
+              <MenuItemTitle>ТЕЛЕФОНЫ И АКСЕССУАРЫ</MenuItemTitle>
             )}
           </LeftSideMenu>
           <Items>

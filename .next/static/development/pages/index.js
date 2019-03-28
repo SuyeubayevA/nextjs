@@ -1,4 +1,4 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\index.js"],{
+((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
 /*!***********************************************************************!*\
@@ -3786,10 +3786,10 @@ module.exports = __webpack_require__(/*! ./dist/lib/dynamic */ "./node_modules/n
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cpages%5Cindex.js!./":
-/*!***************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cpages%5Cindex.js ***!
-  \***************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fpages%2Findex.js!./":
+/*!******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fpages%2Findex.js ***!
+  \******************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4468,7 +4468,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_server_dynamic__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next-server/dynamic */ "./node_modules/next-server/dynamic.js");
 /* harmony import */ var next_server_dynamic__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_server_dynamic__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "D:\\WORK\\Cloud Money\\5 - interview_next_js\\pages\\index.js";
+var _jsxFileName = "/Users/aidar/Desktop/Work/1/nextjs/pages/index.js";
  // import Home from "./home";
 
 
@@ -4517,13 +4517,13 @@ var App = function App() {
 /***/ }),
 
 /***/ 1:
-/*!*******************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cpages%5Cindex.js ***!
-  \*******************************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fpages%2Findex.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cpages%5Cindex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fpages%2Findex.js!./");
 
 
 /***/ }),

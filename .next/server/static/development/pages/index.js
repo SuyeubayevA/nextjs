@@ -6,7 +6,7 @@ module.exports =
 /******/ 	// object to store loaded chunks
 /******/ 	// "0" means "already loaded"
 /******/ 	var installedChunks = {
-/******/ 		"static\\development\\pages\\index.js": 0
+/******/ 		"static/development/pages/index.js": 0
 /******/ 	};
 /******/
 /******/ 	// The require function
@@ -139,7 +139,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_server_dynamic__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next-server/dynamic */ "next-server/dynamic");
 /* harmony import */ var next_server_dynamic__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_server_dynamic__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "D:\\WORK\\Cloud Money\\5 - interview_next_js\\pages\\index.js";
+var _jsxFileName = "/Users/aidar/Desktop/Work/1/nextjs/pages/index.js";
  // import Home from "./home";
 
 
@@ -194,7 +194,7 @@ var App = function App() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\WORK\Cloud Money\5 - interview_next_js\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /Users/aidar/Desktop/Work/1/nextjs/pages/index.js */"./pages/index.js");
 
 
 /***/ }),

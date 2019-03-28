@@ -25,6 +25,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Styles_Body_Banner__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./Styles/Body/Banner */ "./components/Styles/Body/Banner.js");
 /* harmony import */ var _Styles_Body_Title__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./Styles/Body/Title */ "./components/Styles/Body/Title.js");
 /* harmony import */ var _Styles_Body_Image__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./Styles/Body/Image */ "./components/Styles/Body/Image.js");
+/* harmony import */ var _Styles_Body_MenuTitle__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./Styles/Body/MenuTitle */ "./components/Styles/Body/MenuTitle.js");
+/* harmony import */ var _Styles_Body_MenuItemTitle__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./Styles/Body/MenuItemTitle */ "./components/Styles/Body/MenuItemTitle.js");
 
 
 
@@ -32,9 +34,11 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "D:\\WORK\\Cloud Money\\5 - interview_next_js\\components\\Body.js";
+var _jsxFileName = "/Users/aidar/Desktop/Work/1/nextjs/components/Body.js";
 
 // import Link from 'next/link'
+
+
 
 
 
@@ -79,50 +83,56 @@ function (_React$Component) {
       return react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_BodyStyle__WEBPACK_IMPORTED_MODULE_8__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 22
+          lineNumber: 25
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_LeftSideMenu__WEBPACK_IMPORTED_MODULE_9__["default"], {
         onClick: this.changeCategoryField,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 23
+          lineNumber: 26
         },
         __self: this
-      }, this.state.category && react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_MenuTitle__WEBPACK_IMPORTED_MODULE_14__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 27
         },
         __self: this
-      }, "asfas")), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Items__WEBPACK_IMPORTED_MODULE_10__["default"], {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 28
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Banner__WEBPACK_IMPORTED_MODULE_11__["default"], {
+      }, "\u0410\u041A\u0426\u0418\u0418 \u0418 \u041F\u0420\u0415\u0414\u041B\u041E\u0416\u0415\u041D\u0418\u042F"), this.state.category && react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_MenuItemTitle__WEBPACK_IMPORTED_MODULE_15__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 29
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Title__WEBPACK_IMPORTED_MODULE_12__["default"], {
+      }, "\u0422\u0415\u041B\u0415\u0424\u041E\u041D\u042B \u0418 \u0410\u041A\u0421\u0415\u0421\u0421\u0423\u0410\u0420\u042B")), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Items__WEBPACK_IMPORTED_MODULE_10__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30
+          lineNumber: 32
         },
         __self: this
-      }, "\u042D\u041B\u0415\u041A\u0422\u0420\u041E\u041D\u0418\u041A\u0410"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Image__WEBPACK_IMPORTED_MODULE_13__["default"], {
+      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Banner__WEBPACK_IMPORTED_MODULE_11__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 33
         },
         __self: this
-      }, "Apple AirPods ", react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("br", {
+      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Title__WEBPACK_IMPORTED_MODULE_12__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 34
+        },
+        __self: this
+      }, "\u042D\u041B\u0415\u041A\u0422\u0420\u041E\u041D\u0418\u041A\u0410"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_Styles_Body_Image__WEBPACK_IMPORTED_MODULE_13__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 37
+        },
+        __self: this
+      }, "Apple AirPods ", react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 38
         },
         __self: this
       }), "\u0441\u043E \u0441\u043A\u0438\u0434\u043A\u043E\u0439 25%"))));
@@ -153,200 +163,205 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Styles/Header/HeaderLink */ "./components/Styles/Header/HeaderLink.js");
 /* harmony import */ var _Styles_Header_HeaderSection__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Styles/Header/HeaderSection */ "./components/Styles/Header/HeaderSection.js");
 /* harmony import */ var _Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Styles/Header/HeaderItem */ "./components/Styles/Header/HeaderItem.js");
-var _jsxFileName = "D:\\WORK\\Cloud Money\\5 - interview_next_js\\components\\Header.js";
+var _jsxFileName = "/Users/aidar/Desktop/Work/1/nextjs/components/Header.js";
 
 
 
 
 
+ // import {
+//     HeaderStyle,
+//     HeaderLink,
+//     HeaderSection,
+//     HeaderItem
+// } from './Styles/Header'
 
-
-function Header() {
+var Header = function Header() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderStyle__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 16
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderSection__WEBPACK_IMPORTED_MODULE_4__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, "Logo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    __source: {
-      fileName: _jsxFileName,
       lineNumber: 17
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
     },
     __self: this
-  }, "\u0424\u0418\u041D\u0410\u041D\u0421\u042B"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, "Logo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24
     },
     __self: this
-  }, "\u041C\u0410\u0413\u0410\u0417\u0418\u041D"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 25
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, "\u0424\u0418\u041D\u0410\u041D\u0421\u042B"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29
     },
     __self: this
-  }, "\u0423\u0421\u041B\u0423\u0413\u0418"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 30
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, "\u041C\u0410\u0413\u0410\u0417\u0418\u041D"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34
     },
     __self: this
-  }, "\u0415\u0414\u0410"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 35
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, "\u0423\u0421\u041B\u0423\u0413\u0418"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 38
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 39
     },
     __self: this
-  }, "\u0416\u0423\u0420\u041D\u0410\u041B")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderSection__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40
+    },
+    __self: this
+  }, "\u0415\u0414\u0410"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 43
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 44
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 46
-    },
-    __self: this
-  }, "\u0418\u0437\u0431\u0440\u0430\u043D\u043D\u043E\u0435"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, "\u0416\u0423\u0420\u041D\u0410\u041B")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderSection__WEBPACK_IMPORTED_MODULE_4__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 49
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 50
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 51
     },
     __self: this
-  }, "\u041F\u0440\u043E\u0444\u0438\u043B\u044C"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 52
+    },
+    __self: this
+  }, "\u0418\u0437\u0431\u0440\u0430\u043D\u043D\u043E\u0435"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 55
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55
+      lineNumber: 56
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 57
+    },
+    __self: this
+  }, "\u041F\u0440\u043E\u0444\u0438\u043B\u044C"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 60
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Styles_Header_HeaderLink__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 62
     },
     __self: this
   }, "\u041A\u043E\u0440\u0437\u0438\u043D\u0430")))));
-}
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
 
@@ -373,7 +388,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Styles_Header_second_line_Book__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./Styles/Header_second_line/Book */ "./components/Styles/Header_second_line/Book.js");
 /* harmony import */ var _Styles_Header_second_line_CityMenu__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./Styles/Header_second_line/CityMenu */ "./components/Styles/Header_second_line/CityMenu.js");
 /* harmony import */ var _Styles_Header_second_line_MenuItem__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./Styles/Header_second_line/MenuItem */ "./components/Styles/Header_second_line/MenuItem.js");
-var _jsxFileName = "D:\\WORK\\Cloud Money\\5 - interview_next_js\\components\\Header_second_line.js";
+var _jsxFileName = "/Users/aidar/Desktop/Work/1/nextjs/components/Header_second_line.js";
 
 
 
@@ -592,6 +607,66 @@ function _templateObject() {
 
 var BodyStyle = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_templateObject());
 /* harmony default export */ __webpack_exports__["default"] = (BodyStyle);
+
+/***/ }),
+
+/***/ "./components/Styles/Body/MenuItemTitle.js":
+/*!*************************************************!*\
+  !*** ./components/Styles/Body/MenuItemTitle.js ***!
+  \*************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral */ "./node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js");
+/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! styled-components */ "styled-components");
+/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_1__);
+
+
+function _templateObject() {
+  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n    font-size: 24px;\n    font-family: 'Roboto', san-serif;\n    font-weight: bold;\n"]);
+
+  _templateObject = function _templateObject() {
+    return data;
+  };
+
+  return data;
+}
+
+
+var MenuItemTitle = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_templateObject());
+/* harmony default export */ __webpack_exports__["default"] = (MenuItemTitle);
+
+/***/ }),
+
+/***/ "./components/Styles/Body/MenuTitle.js":
+/*!*********************************************!*\
+  !*** ./components/Styles/Body/MenuTitle.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral */ "./node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js");
+/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! styled-components */ "styled-components");
+/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_1__);
+
+
+function _templateObject() {
+  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n    font-size: 24px;\n    font-family: 'Roboto', san-serif;\n    color: #3572b2;\n    font-weight: bold;\n"]);
+
+  _templateObject = function _templateObject() {
+    return data;
+  };
+
+  return data;
+}
+
+
+var MenuTitle = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_templateObject());
+/* harmony default export */ __webpack_exports__["default"] = (MenuTitle);
 
 /***/ }),
 
@@ -2315,7 +2390,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "D:\\WORK\\Cloud Money\\5 - interview_next_js\\pages\\home.js";
+var _jsxFileName = "/Users/aidar/Desktop/Work/1/nextjs/pages/home.js";
  // import Link from "next/link";
 
 

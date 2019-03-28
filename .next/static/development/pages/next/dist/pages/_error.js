@@ -1,4 +1,4 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\next\\dist\\pages\\_error.js"],{
+((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/next/dist/pages/_error.js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js":
 /*!*******************************************************************!*\
@@ -3760,10 +3760,10 @@ module.exports = __webpack_require__(/*! ./dist/lib/head */ "./node_modules/next
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./":
-/*!***************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
-  \***************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./":
+/*!******************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
+  \******************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4565,13 +4565,13 @@ module.exports = (__webpack_require__(/*! dll-reference dll_55dc4e2ecf7824085104
 /***/ }),
 
 /***/ 2:
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
-  \*******************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
+  \**********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F_error&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=D%3A%5CWORK%5CCloud%20Money%5C5%20-%20interview_next_js%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F_error&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2FUsers%2Faidar%2FDesktop%2FWork%2F1%2Fnextjs%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./");
 
 
 /***/ }),

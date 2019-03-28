@@ -4,9 +4,15 @@ import HeaderStyle from "./Styles/Header/HeaderStyle";
 import HeaderLink from "./Styles/Header/HeaderLink";
 import HeaderSection from "./Styles/Header/HeaderSection";
 import HeaderItem from "./Styles/Header/HeaderItem";
+ 
+// import {
+//     HeaderStyle,
+//     HeaderLink,
+//     HeaderSection,
+//     HeaderItem
+// } from './Styles/Header'
 
-function Header() {
-  return (
+const Header = () => (
       <HeaderStyle>
             <HeaderSection>
                 <HeaderItem>
@@ -59,7 +65,6 @@ function Header() {
             </HeaderSection>
             
     </HeaderStyle>
-  )
-}
+)
 
 export default Header
