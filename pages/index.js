@@ -7,7 +7,7 @@ const Home = dynamic(()=>import("./home"), {
 })
 
 const App = () =>(
-    <div className='a2' style={{ background: 'red' }} >
+    <div className='App' >
         <Home />
     </div>
 );

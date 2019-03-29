@@ -1,9 +1,9 @@
 import React, {Component} from "react";
 // import Link from "next/link";
 import Head from "next/head";
-import Header from "../components/Header";
-import Header_second_line from "../components/Header_second_line";
-import Body from "../components/Body";
+import Header from "../components/Header/index";
+import Header_second_line from "../components/Header_second_line/index";
+import Body from "../components/Body/index";
 
 import MainBG from "../components/Styles/Main/MainBG";
 
